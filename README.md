@@ -29,7 +29,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results
 
-The main findings of the code can be found at the post available [he]()re
+The main findings of the code can be found at the post available in Write a Data Science Blog Post.ipynb file
 
 ## Licensing, Authors, Acknowledgements
 
