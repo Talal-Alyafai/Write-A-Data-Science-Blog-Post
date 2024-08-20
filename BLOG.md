@@ -43,4 +43,4 @@ The findings here are observational, not the result of a formal study. So the re
 
 > Will you go to the west?
 
-To see more about this analysis, see the link to my Github available [here](https://github.com/joshuayeung/Write-A-Data-Science-Blog-Post/blob/master/Write%20a%20Data%20Science%20Blog%20Post.ipynb).
+To see more about this analysis, see the link to my Github available [here](https://github.com/Talal-Alyafai/Write-A-Data-Science-Blog-Post/blob/main/Write%20a%20Data%20Science%20Blog%20Post.ipynb).
