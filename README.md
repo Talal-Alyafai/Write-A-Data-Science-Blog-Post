@@ -29,7 +29,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results
 
-The main findings of the code can be found at the post available in Write a Data Science Blog Post.ipynb file
+The main findings of the code can be found at the post available in [here](https://github.com/Talal-Alyafai/Write-A-Data-Science-Blog-Post/blob/main/Write%20a%20Data%20Science%20Blog%20Post.ipynb)
 
 ## Licensing, Authors, Acknowledgements
 
